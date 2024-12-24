@@ -11,6 +11,8 @@
     "type-check": "vue-tsc --build --force"
   },
   "dependencies": {
+    "@youcan/ui-core": "^2.6.9",
+    "@youcan/ui-vue3": "^2.6.9",
     "axios": "^1.7.7",
     "pinia": "^2.1.7",
     "pinia-plugin-persistedstate": "^3.2.1",
