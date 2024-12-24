@@ -1,4 +1,7 @@
 import '@/assets/styles.scss';
+import '@youcan/ui-core/tokens';
+import '@youcan/ui-vue3/style';
+import 'uno.css';
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
 import piniaPluginPersistedstate from 'pinia-plugin-persistedstate'
